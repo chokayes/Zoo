@@ -7,9 +7,7 @@ public class Zoo{
 		Hippo hippo = new Hippo();
 		Lion leon = new Lion();
 		
-//<<<<<<< HEAD
 		Giraffe giraffe = new Giraffe();
-//=======
-//>>>>>>> master
+
 	}
 }
